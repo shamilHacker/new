@@ -1,0 +1,35 @@
+
+.img
+{
+   width: 420px;
+   height: 370px;
+   padding-top: 3px;
+}
+.div
+{
+   padding-right: 3px;
+   padding-left: 3px;
+   width: 430px;
+   height: 375px;
+   border: 1px solid gray;
+   border-radius: 1%;
+}
+.text
+{
+   font-size: 15px;
+   padding-left: 50px;
+}
+.vid
+{
+   padding-left: 0px;
+   width: 800px;
+   height: 200px;
+   font-size: 13px;
+}
+.spin
+{
+   transform: translate(50%);
+   margin-top: 150px;
+}
+
+
